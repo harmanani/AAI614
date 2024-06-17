@@ -1,4 +1,4 @@
 
 # Week 2
 
-Source code for Week 2 of AAI 615
+Labs for AAI 614: Data Science and its Applications
